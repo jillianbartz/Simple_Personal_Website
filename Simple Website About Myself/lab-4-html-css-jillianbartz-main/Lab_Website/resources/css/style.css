@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(173, 173, 173)!important;
+  }
+
+#about-me{
+    position: absolute!important;
+    top: 30%!important;
+    left: 50%!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important;
+}
+
+#self-desc{
+    position: absolute!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important;
+    top: 40%!important;
+    left: 50%!important;
+    font-size: 17pt!important;
+    width: 600px!important;
+}
+
+#self-image{
+    border: 7px solid #FFE6E8!important;
+    position: absolute!important;
+    top: 30%!important;
+    left: 20%!important;
+    width: 400px!important;
+}
+
+#github{
+    padding-left: 10px!important;
+    width: 40px!important;
+}
+
+#discord{
+    padding-left: 10px!important;
+    width: 40px!important;
+}
+
+#x{
+    padding-left: 10px!important;
+    width: 37px!important;
+}
+
+.footer{
+    
+    position: absolute!important;
+    bottom: 0%!important;
+    left: 45%!important;
+}
+
+
+#resume{
+    border: 7px solid lightgrey!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important;
+
+}

@@ -1,0 +1,28 @@
+#Cat{
+    
+    width: 200px!important;
+}
+
+#Video-games{
+    width: 200px!important;
+}
+
+#Plant{
+    width: 200px;
+}
+
+.card {
+    display: inline-block;
+    width: 500px!important;
+    padding: 50px!important;
+    
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 20px;
+}

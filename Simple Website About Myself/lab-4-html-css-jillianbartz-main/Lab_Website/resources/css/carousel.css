@@ -1,0 +1,28 @@
+#projects{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px!important;
+}
+
+#carousel-item-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px !important;
+}
+
+#carousel-item-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px !important;
+}
+
+#carousel-item-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px !important;
+}
